@@ -1,2 +1,2 @@
 payload:
-  - IP-CIDR,107.173.157.77
+  - IP-CIDR,107.173.157.77,no-resolve

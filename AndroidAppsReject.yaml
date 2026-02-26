@@ -4,4 +4,4 @@ payload:
   - DOMAIN-KEYWORD,gboard
   - DOMAIN-KEYWORD,input-method
   # Via Browser 
-  - DOMAIN,viayoo.com
+  - DOMAIN-SUFFIX,viayoo.com

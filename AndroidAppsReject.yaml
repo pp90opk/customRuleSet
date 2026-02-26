@@ -1,0 +1,7 @@
+payload:
+  # Gboard
+  - PROCESS-NAME,com.google.android.inputmethod.latin
+  - DOMAIN-KEYWORD,gboard
+  - DOMAIN-KEYWORD,input-method
+  # Via Browser 
+  - DOMAIN,viayoo.com
